@@ -52,7 +52,7 @@ whereas Transaction History shows your complete transaction from the scratch.
 
 Here you can see the example transactions to get clarify.
 
-![Alt text](Example_Transaction.png)
+![Alt text](https://github.com/satwikakancherla/Bank_Management_System/blob/main/Example_Transaction.png)
 
 ### Account Management
 
