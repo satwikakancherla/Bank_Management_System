@@ -1,4 +1,4 @@
-A simple Bank Management System built using Python, Streamlit, and SQLite.
+#A simple Bank Management System built using Python, Streamlit, and SQLite.
 This project demonstrates basic banking operations such as account creation, login, deposits, withdrawals, transaction history, and admin management with secure PIN hashing.
 
 👤User Features:
@@ -29,8 +29,11 @@ View individual balances
 
 View total bank balance
 
+
 🔐 Security:
 
--> PINs are hashed using SHA-256
--> Raw PINs are never stored in the database
--> Session-based authentication using Streamlit session state
+PINs are hashed using SHA-256
+Raw PINs are never stored in the database
+Session-based authentication using Streamlit session state
+
+
