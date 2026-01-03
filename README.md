@@ -1,4 +1,5 @@
-#Bank Management System
+# Bank Management System
+
 **A simple Bank Management System built using Python, Streamlit, and SQLite.
 This project demonstrates basic banking operations such as account creation, login, deposits, withdrawals, transaction history, and admin management with secure PIN hashing.**
 
