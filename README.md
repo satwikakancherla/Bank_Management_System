@@ -21,21 +21,16 @@ Reset account balance to zero
 
 Delete account permanently
 
-Logout securely
-
-Admin Features
-
-View all user accounts
-
-View individual balances
-
 View total bank balance
-
 
 # 🔐 Security:
 
 PINs are hashed using SHA-256
 Raw PINs are never stored in the database
 Session-based authentication using Streamlit session state
+
+# ScreenShots
+
+
 
 
