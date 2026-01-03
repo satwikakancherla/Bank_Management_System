@@ -36,4 +36,6 @@ PINs are hashed using SHA-256
 Raw PINs are never stored in the database
 Session-based authentication using Streamlit session state
 
+https://github.com/satwikakancherla/Bank_Management_System/blob/main/venky%20(1).jpg
+
 
