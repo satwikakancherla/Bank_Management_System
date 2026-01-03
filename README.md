@@ -30,7 +30,7 @@ Raw PINs are never stored in the database
 Session-based authentication using Streamlit session state
 
 # ScreenShots
-
+![Alt text](https://github.com/satwikakancherla/Bank_Management_System/blob/main/login_page.png)
 
 
 
